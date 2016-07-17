@@ -1,6 +1,10 @@
 ---
 published: true
-title: Ken Caron & Jackie Blizzard
 layout: post
+title: Ken Caron & Jackie Blizzard
 ---
-Test content
+#Test content
+
+[Images are cool](HTTP://placehold.it/100x100)
+
+Come see us get married y'all.
